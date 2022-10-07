@@ -1,0 +1,19 @@
+---
+title: "About"
+image: logo.png
+about:
+  template: jolla
+  links:
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCs9ftpNQuO1VSXfNcyUK2qw
+    - icon: github
+      text: Github
+      href: https://github.com/TwoMinsDS
+
+---
+
+Let's build a better world with Data Science!
